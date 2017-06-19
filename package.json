@@ -1,0 +1,12 @@
+{
+  "name": "googlephotoframe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bardur Pihl <b-dur@b-dur.dk>",
+  "license": "MIT",
+  "dependencies": {
+    "reactjs": "^1.0.0",
+    "redux": "^3.7.0",
+    "webpack": "^3.0.0"
+  }
+}
